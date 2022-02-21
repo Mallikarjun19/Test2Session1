@@ -1,1 +1,9 @@
-
+ gcc -g p3original.c
+ ./a.out
+enter the number: 
+5
+5 is prime number 
+ ./a.out
+enter the number: 
+10
+10 is not prime number 
