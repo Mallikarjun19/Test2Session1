@@ -1,1 +1,6 @@
 
+gcc -g p4original.c
+ ./a.out
+enter the value of n: 
+5
+the 5 th position have number 3 in fibonacci sequence
