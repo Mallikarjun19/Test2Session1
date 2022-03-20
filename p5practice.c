@@ -31,7 +31,6 @@ void erotosthenes_sieve(int n,int a[n])
       }
     i++;  
   }
-  
 }
 void out_put(int n,int a[n])
 {
