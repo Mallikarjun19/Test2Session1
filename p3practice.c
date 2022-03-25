@@ -11,7 +11,6 @@ int is_prime(int n)
   int i,z;
   for(i=2;i<n;i++)
   {
-   for(i=2;i<n;i++)
      n=n%i;
   }
   if(n>0)
